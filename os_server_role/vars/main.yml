@@ -133,3 +133,281 @@ server_definitions:
   security_groups: Allow_SSH
   tags: 
     os: ubuntu
+
+###
+### Centos Servers
+###
+
+ C-VDI-1:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-2:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-3:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-4:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-5:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-6:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-7:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-8:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-9:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-10:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+ 
+ C-VDI-11:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-12:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-13:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-14:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+ C-VDI-15:
+  image: "centos7"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: centos
+
+###
+### Fedora Servers
+###
+
+ F-VDI-1:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-2:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-3:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-4:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-5:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-6:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-7:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-8:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-9:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-10:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+ 
+ F-VDI-11:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-12:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-13:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-14:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
+
+ F-VDI-15:
+  image: "fedora37"
+  ssh_key_name: fromMAAS
+  flavor: 1096650d-c706-4b3f-93e8-443e915126b5
+  network: bf803c16-934d-4314-9a66-9412c55033d2
+  security_groups: Allow_SSH
+  tags: 
+    os: fedora
