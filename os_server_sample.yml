@@ -7,26 +7,13 @@
     os_server:
        state: present
        name: vm1
-       image: "auto-sync/ubuntu-bionic-18.04-amd64-server-20191021-disk1.img"
-       key_name: automation-key
+       image: "auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img"
+       key_name: fromMAAS
        timeout: 200
-       flavor: 693b91b1-16b7-4e5b-a222-a5de94c7a34d
+       flavor: 1096650d-c706-4b3f-93e8-443e915126b5
        auto_ip: no
-       network: 835b13ac-8db6-4060-9b6f-c56290ba7e7e
-       security_groups: devzero_trust
+       network: bf803c16-934d-4314-9a66-9412c55033d2
+       security_groups: Allow_SSH
        meta:
          os: ubuntu
 
-  - name: Add second Server
-    os_server:
-       state: present
-       name: vm2
-       image: "centos 7"
-       key_name: automation-key
-       timeout: 200
-       flavor: 693b91b1-16b7-4e5b-a222-a5de94c7a34d
-       auto_ip: no
-       network: 835b13ac-8db6-4060-9b6f-c56290ba7e7e
-       security_groups: devzero_trust
-       meta:
-         os: centos
