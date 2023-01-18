@@ -5,6 +5,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -14,6 +15,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -23,6 +25,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -32,6 +35,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -41,6 +45,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -50,6 +55,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -59,6 +65,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -68,6 +75,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -77,6 +85,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -86,6 +95,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -95,6 +105,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -104,6 +115,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -113,6 +125,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -122,6 +135,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -131,6 +145,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: ubuntu
 
@@ -144,6 +159,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -153,6 +169,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -162,6 +179,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -171,6 +189,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -180,6 +199,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -189,6 +209,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -198,6 +219,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -207,6 +229,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -216,6 +239,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -225,6 +249,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
  
@@ -234,6 +259,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -243,6 +269,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -252,6 +279,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -261,6 +289,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -270,6 +299,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: centos
 
@@ -283,6 +313,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -292,6 +323,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -301,6 +333,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -310,6 +343,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -319,6 +353,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -328,6 +363,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -337,6 +373,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -346,6 +383,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -355,6 +393,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -364,6 +403,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
  
@@ -373,6 +413,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -382,6 +423,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -391,6 +433,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -400,6 +443,7 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
 
@@ -409,5 +453,6 @@ server_definitions:
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
   security_groups: Allow_SSH
+  auto_floating_ip: yes
   tags: 
     os: fedora
