@@ -6,7 +6,9 @@
     key_name: "{{  item.value.ssh_key_name }}"
     timeout: 200
     flavor: "{{  item.value.flavor }}"
-    auto_ip: no
+    auto_ip: yes
+    wait: no
+    delete_fip: yes
     network: "{{  item.value.network }}"
     security_groups: "{{  item.value.security_groups }}"
     meta: "{{  item.value.tags }}"
