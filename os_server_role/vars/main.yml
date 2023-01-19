@@ -1,6 +1,6 @@
 server_definitions:
  U-VDI-1:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -9,7 +9,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-2:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -18,7 +18,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-3:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -27,7 +27,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-4:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -36,7 +36,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-5:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -45,7 +45,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-6:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -54,7 +54,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-7:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -63,7 +63,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-8:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -72,7 +72,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-9:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -81,7 +81,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-10:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -90,7 +90,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-11:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -99,7 +99,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-12:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -108,7 +108,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-13:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -117,7 +117,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-14:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
@@ -126,7 +126,7 @@ server_definitions:
     os: ubuntu
 
  U-VDI-15:
-  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230111-disk1.img
+  image: auto-sync/ubuntu-focal-20.04-amd64-server-20230117-disk1.img
   ssh_key_name: fromMAAS
   flavor: 1096650d-c706-4b3f-93e8-443e915126b5
   network: bf803c16-934d-4314-9a66-9412c55033d2
